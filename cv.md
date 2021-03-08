@@ -9,3 +9,17 @@
 4. # Skills
 * Personal interests: Sport, computer games (Dota 2), strong interest in learning programming languages
 * Computer skills: Petrel, TNavigator(RFD), MS Office skills, Photoshop, Corel Draw  
+5. # Example of any code
+```
+    function squareDigits(num){
+    let a=num.toString().split('').map(x=> x*x).join('')//may the code be with you
+    return (Number(a))
+    }
+```
+6. --- 
+7. # Education
+* (2003-2012) The secondary school №151 with the intensive study of English language
+* (2012-2015) Academic lyceum of Tashkent state pedagogical university named after Nizami
+* (2016-2020) “Russian university of oil and gas (national research university) named after I. M. Gubkin” in Tashkent (Republic of Uzbekistan) 
+8. # The level of English language
+* English (*B1*)
