@@ -6,22 +6,21 @@ figcaption {
   }
   .avatar {
     position:absolute;
-    left:5%;
+    left:15%;
     top:15%;
-      width: 80px;
+    width: 80px;
     height: 100px;
-    margin-left: 10px;
-    margin: top 10px;
   }
   body {
-    margin: auto;
+    margin-right:10%;
+    margin-left:10%;
     font-family: Agency FB;
     font-size: 12pt;
     background-color: rgb(218, 201, 201);
   }
   header {
     padding-bottom: 10px;
-    border-bottom: 10px solid white;
+    border-bottom: 5px solid white;
     border-top: 5px solid black;
     width: auto;
     margin: auto;
@@ -39,31 +38,32 @@ figcaption {
     display: block;
     position: relative;
     top: -80px;
-    left: 500px;
+    margin-left:20%;
     font-size: 12pt;
     letter-spacing: 5pt;
   }
   header ul {
     position:relative;
     top:20%;
-    left:70%;
+    left:65%;
     font-family: Agency FB;
     position: relative;
   }
-  .short_inf p,.example code,.expirience h3,h4,p1,.english p1 {
+  .short_inf p,.example h3,.expirience h3,h4,p,.english p {
     position: relative;
     top: -40px;
-    left: 250px;
+    margin-left:30%;
+    margin-right:30%;
     white-space:normal ;
+    width: 65%;
   }
-  .skills li,
-  .education li {
+  .skills li,.education li {
+    margin-left:28%;
+    margin-right:30%;
     position: relative;
     top: -40px;
-    left: 220px;
     word-wrap:normal;
   }
   .short_inf,.skills,.example,.expirience,.education,.english{
   border-top: 1px solid black;
-  }
-  
+}
