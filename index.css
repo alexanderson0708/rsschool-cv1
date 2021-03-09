@@ -49,7 +49,7 @@ figcaption {
     font-family: Agency FB;
     position: relative;
   }
-  .short_inf p,.example h3,.expirience h3,h4,p,.english p {
+  .short_inf p,.example code,.expirience h3,h4,p,.english p {
     position: relative;
     top: -40px;
     margin-left:30%;
